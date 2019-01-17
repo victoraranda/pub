@@ -2,5 +2,6 @@
 .DS_Store
 ._*
 .Spotlight-V100
+.ipynb_checkpoints
 .Trashes
 Thumbs.db
